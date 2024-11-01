@@ -1,4 +1,4 @@
-# PaliKeyboard
+# PaliKeyboard using Microsoft keyboard layout creator
 INSTALL USING THE FILES IN THE FOLDERS ABOVE
 
 
